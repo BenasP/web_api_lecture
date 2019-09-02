@@ -4,7 +4,7 @@ using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace web_api.Model
+namespace WebApi.Model
 {
     public class ShoppingItem
     {

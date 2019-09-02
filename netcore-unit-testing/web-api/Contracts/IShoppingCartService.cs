@@ -1,8 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
-using web_api.Model;
+using WebApi.Model;
 
-namespace web_api.Contracts
+namespace WebApi.Contracts
 {
     public interface IShoppingCartService
     {

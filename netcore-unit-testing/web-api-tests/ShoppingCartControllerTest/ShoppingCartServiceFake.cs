@@ -1,10 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using web_api.Contracts;
-using web_api.Model;
+using WebApi.Contracts;
+using WebApi.Model;
 
-namespace web_api_tests
+namespace WebApi.Tests.ShoppingCartControllerTest
 {
     class ShoppingCartServiceFake : IShoppingCartService
     {

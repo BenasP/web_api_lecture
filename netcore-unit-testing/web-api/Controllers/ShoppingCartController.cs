@@ -1,10 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
 using Microsoft.AspNetCore.Mvc;
-using web_api.Contracts;
-using web_api.Model;
+using WebApi.Contracts;
+using WebApi.Model;
 
-namespace web_api.Controllers
+namespace WebApi.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]

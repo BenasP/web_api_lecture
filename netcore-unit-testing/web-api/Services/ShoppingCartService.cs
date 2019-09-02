@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
-using web_api.Contracts;
-using web_api.Model;
+using WebApi.Contracts;
+using WebApi.Model;
 
-namespace web_api.Sevices
+namespace WebApi.Services
 {
     public class ShoppingCartService : IShoppingCartService
     {
